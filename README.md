@@ -1,5 +1,6 @@
 Kilo
 ===
+#Forked Form antirez/kilo just for study
 
 Kilo is a small text editor in less than 1K lines of code (counted with cloc).
 
